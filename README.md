@@ -23,9 +23,11 @@ git clone https://github.com/determin1st/vim-fullscreen-windows
 ```
 into your [`vimfiles`](https://stackoverflow.com/questions/37630062/two-vimfiles-directories-where-do-i-install-my-plugins),
 it will be either:
-- `vimfiles/pack/win/start/vim-fullscreen-windows` (the new way)
-- `vimfiles/plugin/vim-fullscreen-windows` (the old way)
-Also, if you have some plugin manager - it will do the job.
+- **`vimfiles/pack/w/start/`**`vim-fullscreen-windows` (the new way, "w" is for windows group)
+- **`vimfiles/plugin/`**`vim-fullscreen-windows` (the old way)
+
+Also, if you have some [plugin manager](https://github.com/junegunn/vim-plug) -
+it should do the job.
 
 # Usage
 
