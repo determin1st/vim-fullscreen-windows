@@ -1,4 +1,4 @@
-[![FullScreen](https://raw.githack.com/determin1st/vim-fullscreen/master/logo.png)](https://youtu.be/ER5JYFKkYDg)
+[![FullScreen](https://raw.githack.com/determin1st/vim-fullscreen-windows/master/logo.png)](https://youtu.be/ER5JYFKkYDg)
 
 # About
 
