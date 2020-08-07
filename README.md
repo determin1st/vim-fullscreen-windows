@@ -17,8 +17,15 @@ This is an assembly, all original files included.
 
 # Install
 
-You may clone this repo `https://github.com/determin1st/vim-fullscreen-windows`
-into your `vimfiles/pack/win/start` or in `vimfiles/plugin`
+Natively, you may clone this repo:
+```bash
+git clone https://github.com/determin1st/vim-fullscreen-windows
+```
+into your [`vimfiles`](https://stackoverflow.com/questions/37630062/two-vimfiles-directories-where-do-i-install-my-plugins),
+it will be either:
+- `vimfiles/pack/win/start/vim-fullscreen-windows` (the new way)
+- `vimfiles/plugin/vim-fullscreen-windows` (the old way)
+Also, if you have some plugin manager - it will do the job.
 
 # Usage
 
