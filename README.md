@@ -1,12 +1,19 @@
 [![FullScreen](https://raw.githack.com/determin1st/vim-fullscreen-windows/master/logo.png)](https://youtu.be/ER5JYFKkYDg)
 
-# About
+# about
 
-A super-simple vim plugin script and two compiled dlls
-which expose two global functions:
+this is a vim plugin that allows
+to maximize gvim editor window and
+also span it full screen with these functions:
 
-- ToggleFullScreen() to toggle fullscreen mode for gvim
-- ToggleMaximize() to maximize window or bring it back to normal
+- `ToggleMaximize()` maximizes window or gets back to normal
+- `ToggleFullScreen()` gets in and out of fullscreen
+
+
+
+
+
+
 
 This is an assembly, all original files included.
 
@@ -46,7 +53,6 @@ nnoremap <F9> :call ToggleFullScreen()<CR>
 # Links
 
 https://www.vim.org/scripts/script.php?script_id=2596
-
 https://www.vim.org/scripts/script.php?script_id=1302
 
 

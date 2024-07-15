@@ -1,0 +1,5 @@
+kernel32.lib
+user32.lib
+gdi32.lib
+msvcrt.lib
+
